@@ -3,4 +3,8 @@ body {
 }
 footer {
     background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+
 }
